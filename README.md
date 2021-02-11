@@ -6,6 +6,9 @@
 - Some kind of display
 - Display connector (Micro HDMI to *something*),
 - Wood for the frame
+- Mirror. Either:
+  - Glass with mirror foil
+  - Two-way mirror
 
 ## Software
 
