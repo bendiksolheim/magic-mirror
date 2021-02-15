@@ -3,7 +3,7 @@
 ## Parts
 
 - [x] Raspberry PI (with power supply and so on)
-- [ ] Some kind of display
+- [ ] Some kind of display (probably https://shop.pimoroni.com/products/hdmi-8-lcd-screen-kit-1024x768)
 - [x] Display connector (Micro HDMI to *something*),
 - [ ] Wood for the frame
 - [ ] Mirror. Either:
@@ -17,6 +17,12 @@
 MagicMirror² seems to be easy enough, and give a good result. There also exists a ton of modules.
 
 ## Log
+
+### 14.02.2021
+
+Hardly a session, but I spent some time looking for a display. After a lot of thinking, I want a small display that can use the Raspberry PI as a power source. Several exists, but most of them are touchscreens. Which would be a complete waste.
+
+I will probably order https://shop.pimoroni.com/products/hdmi-8-lcd-screen-kit-1024x768 – an 8 inch display powered by USB. It also has a decent resolution – more than enough to display some text.
 
 ### 11.02.2021
 
