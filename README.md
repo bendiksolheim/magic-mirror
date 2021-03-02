@@ -3,7 +3,7 @@
 ## Parts
 
 - [x] Raspberry PI (with power supply and so on)
-- [ ] Some kind of display (probably https://shop.pimoroni.com/products/hdmi-8-lcd-screen-kit-1024x768)
+- [x] Some kind of display (probably https://shop.pimoroni.com/products/hdmi-8-lcd-screen-kit-1024x768)
 - [x] Display connector (Micro HDMI to *something*),
 - [ ] Wood for the frame
 - [ ] Mirror. Either:
@@ -17,6 +17,20 @@
 MagicMirror² seems to be easy enough, and give a good result. There also exists a ton of modules.
 
 ## Log
+
+### 02.03.2021
+
+Assembled the display (display, display driver board, display control board, and cables), and connected it to the Raspberry PI with a USB cable and a HDMI cable. The display is powered with 5V from the USB, so only one power cable is needed in total.
+
+![Display assembled and connected to the Raspberry PI](images/display-connected.jpg)
+
+### 01.03.2021
+
+Display received by mail.
+
+### 17.02.2021
+
+Finally ordered display from Pimoroni.
 
 ### 14.02.2021
 
