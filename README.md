@@ -5,10 +5,8 @@
 - [x] Raspberry PI (with power supply and so on)
 - [x] Some kind of display (probably https://shop.pimoroni.com/products/hdmi-8-lcd-screen-kit-1024x768)
 - [x] Display connector (Micro HDMI to *something*),
-- [ ] Wood for the frame
-- [ ] Mirror. Either:
-  - Glass with mirror foil
-  - Two-way mirror
+- [x] Wood for the frame
+- [ ] Mirror foil for glass
 
 ## Software
 
@@ -17,6 +15,12 @@
 MagicMirror² seems to be easy enough, and give a good result. There also exists a ton of modules.
 
 ## Log
+
+### 08.03.2021
+
+Bought a 15x20 photo frame and mirror foil. Cheating a bit with the frame – instead of making it from scratch, I decided to use a prebuilt frame meant for photos.
+
+The mirror foil failed completely. It was black instead of silver, which makes it hard to use as a mirror. Ohh well.
 
 ### 02.03.2021
 
